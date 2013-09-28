@@ -13,6 +13,6 @@ Uses words from [here](http://www.curlewcommunications.co.uk/wordlist.html).
 
 From terminal, execute:
 
-    $ git clone ggit://github.com/stephenbaidu/playing_with_words.git
+    $ git clone git://github.com/stephenbaidu/playing_with_words.git
     $ cd playing_with_words
     $ octave start.m
