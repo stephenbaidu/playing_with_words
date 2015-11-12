@@ -7,7 +7,7 @@ Uses words from [here](http://www.curlewcommunications.co.uk/wordlist.html).
 
 
 ### Functions
-- Plots the number of time a character (a-z), follows another other characters
+- Plots the number of time a character (a-z), follows other characters
 
 ### Running the scripts
 
